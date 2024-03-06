@@ -1,0 +1,22 @@
+.nav li {
+       float: left;
+       list-style: none;
+       margin: 13px 20px;
+       padding: 6px 6px;
+}
+.nav li a {
+       padding: 3px 3px;
+       text-decoration: none;
+       color: black;
+}
+.download {
+       background-color: rgb(33, 156, 33);
+       border-radius: 60px;
+       
+}
+.body {
+       background-color: rgb(245, 237, 234);
+}
+.para {
+       
+}
